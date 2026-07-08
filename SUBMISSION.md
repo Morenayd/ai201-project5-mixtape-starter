@@ -136,11 +136,9 @@ The fixes were implemented in separate commits. Recent commits in this repositor
 - `1457a17` — sunday streak fix (branch: `sundayfix`)
 - `bf97d30` — fix playlist error (branch: `playlist`)
 
-Below is an attached screenshot of a recent `git log --oneline --decorate` demonstrating these separate commits:
+The git log screenshot below shows these separate commits:
 
-![git log screenshot](git-log.png)
-
-> If you would like, I can add the actual `git-log.png` file into the repo so the image renders in the Markdown. Right now the image reference is a placeholder linking to `git-log.png` (you can replace it with the screenshot file or tell me to add it and I'll commit it).
+![git log screenshot](git-log-screenshot.png)
 
 ## Verification
 

@@ -1,7 +1,0 @@
-24f2dc2 (HEAD -> duplicatesearch) docs: add root-cause analyses and commit proof to SUBMISSION.md
-6618605 (origin/notifications, notifications) notification fix
-1457a17 (origin/sundayfix, sundayfix) sunday streak fix
-bf97d30 (origin/playlist, playlist) fix playlist error
-2596b0e (origin/notification, origin/main, origin/HEAD, notification, main) fixed the streak reset bug and added submission.md
-2dfdeaa Add .gitignore file and update README with setup instructions
-7b64551 initial commit
