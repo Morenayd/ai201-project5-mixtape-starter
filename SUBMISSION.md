@@ -138,7 +138,7 @@ The fixes were implemented in separate commits. Recent commits in this repositor
 
 The git log screenshot below shows these separate commits:
 
-![git log screenshot](git-log-screenshot.png)
+![git log screenshot](git.png)
 
 ## Verification
 
